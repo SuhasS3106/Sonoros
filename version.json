@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "releaseDate": "2026-08-29",
+  "minRequiredVersion": "0.1.0",
+  "notes": [
+    "Initial release of Sonoros",
+    "Interactive piano curriculum and MIDI input engine",
+    "Smart library with playback, audio, and tempo controls"
+  ],
+  "downloadUrls": {
+    "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.0/Sonoros-0.1.0-x64-setup.exe"
+  },
+  "mandatory": false
+}

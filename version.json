@@ -3,9 +3,9 @@
   "releaseDate": "2026-08-30",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "Initial release of Sonoros",
-    "Interactive piano curriculum and MIDI input engine",
-    "Smart library with playback, audio, and tempo controls"
+    "Hot-patch v0.1.2 update",
+    "Renderer patch validation and downgrade protection",
+    "Background startup update check and installer workflow enhancements"
   ],
   "downloadUrls": {
     "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.2/Sonoros-0.1.2-x64-setup.exe"
@@ -13,8 +13,8 @@
   "mandatory": false,
   "patch": {
     "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.2/patch-0.1.2.zip",
-    "sha256": "9cd01587503262af3474de1aff2e043a84d7640c935db52f9f27e01fe239893c",
-    "byteLength": 596811,
+    "sha256": "47a40d202bd079e9a1511c83bcc427d3805cbc2cf8afc55c2b8c56b3c7ef6ec3",
+    "byteLength": 597881,
     "compatibleBaseVersion": "0.1.0"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "releaseDate": "2026-08-29",
+  "version": "0.1.2",
+  "releaseDate": "2026-08-30",
   "minRequiredVersion": "0.1.0",
   "notes": [
     "Initial release of Sonoros",
@@ -8,13 +8,13 @@
     "Smart library with playback, audio, and tempo controls"
   ],
   "downloadUrls": {
-    "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.1/Sonoros-0.1.1-x64-setup.exe"
+    "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.2/Sonoros-0.1.2-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.1/patch-0.1.1.zip",
-    "sha256": "b9290cdcfd654cf89af3c005cdc2cce4ab1dc63506b32f9634a94340d6518249",
-    "byteLength": 590264,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.2/patch-0.1.2.zip",
+    "sha256": "9cd01587503262af3474de1aff2e043a84d7640c935db52f9f27e01fe239893c",
+    "byteLength": 596811,
     "compatibleBaseVersion": "0.1.0"
   }
 }

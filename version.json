@@ -1,24 +1,18 @@
 {
-  "version": "0.1.3",
-  "releaseDate": "2026-09-18",
+  "version": "0.1.4",
+  "releaseDate": "2026-09-19",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "Sampled grand piano replaces the synth voice",
-    "Notation engine: ottavas, fermatas, real braces, and meter-aware spelling",
-    "Print a song's sheet music to PDF from the library",
-    "On-screen key cues are coloured by hand",
-    "Resume from pause no longer skips or drops notes",
-    "Practice tab now appears only on the practice screen",
-    "Feedback narration set and a local clip review server"
+    "Keyboard focus indicators throughout, accessible dialogs, and a unified design token system."
   ],
   "downloadUrls": {
-    "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.3/Sonoros-0.1.3-x64-setup.exe"
+    "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.4/Sonoros-0.1.4-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.3/patch-0.1.3.zip",
-    "sha256": "3084d0a53536c90efea5f5f7cb3baf318d478b910a415f8ecab8b90a87fc373a",
-    "byteLength": 2199811,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.4/patch-0.1.4.zip",
+    "sha256": "ea5e352dae36774d911d420eb8239766bd7a24f9c04ca3784814954cbcf598db",
+    "byteLength": 2201723,
     "compatibleBaseVersion": "0.1.0"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "version": "0.1.5",
-  "releaseDate": "2026-09-19",
+  "version": "0.1.6",
+  "releaseDate": "2026-09-26",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "Fixes the updater: installed builds can now actually detect new versions, and a failed check no longer reports as up to date. Includes keyboard focus indicators, accessible dialogs, and a unified design token system."
+    "Fixes preloaded songs failing to open in the installed app."
   ],
   "downloadUrls": {
     "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.5/Sonoros-0.1.5-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.5/patch-0.1.5.zip",
-    "sha256": "fced80c90832657e2daecc9c38cf2880717931da761014b08b39e8cf0b1769ed",
-    "byteLength": 2202159,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.6/patch-0.1.6.zip",
+    "sha256": "c290f1fa3b7009af932ec5e77468179e1189199e963dd6bba228ea6c41a74ad5",
+    "byteLength": 2202340,
     "compatibleBaseVersion": "0.1.0"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "releaseDate": "2026-09-26",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "Split view now shows the staff under the piano roll. The piano is louder, and a medium key press no longer comes out faint."
+    "Sections mode: the countdown now counts down and the notes fall during it, instead of freezing and then jumping in. Update checks now see a new release immediately instead of up to 5 minutes later."
   ],
   "downloadUrls": {
     "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.5/Sonoros-0.1.5-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.8/patch-0.1.8.zip",
-    "sha256": "7a53083d1765561dbf95facc869e101f9acad067f0b282ad58be68ad273f016d",
-    "byteLength": 2202765,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.9/patch-0.1.9.zip",
+    "sha256": "8a2dac655c2d5e70e5d521eed312e6c125218fdac801ca1d10a30626437c3c12",
+    "byteLength": 2202982,
     "compatibleBaseVersion": "0.1.0"
   }
 }

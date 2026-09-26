@@ -1,18 +1,18 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "releaseDate": "2026-09-26",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "Fixes preloaded songs failing to open in the installed app."
+    "The scrolling staff no longer repeats the clef and time signature in every bar: the clef and key stay pinned at the left edge. Updates now open the update dialog on startup instead of a brief notification."
   ],
   "downloadUrls": {
     "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.5/Sonoros-0.1.5-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.6/patch-0.1.6.zip",
-    "sha256": "c290f1fa3b7009af932ec5e77468179e1189199e963dd6bba228ea6c41a74ad5",
-    "byteLength": 2202340,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.7/patch-0.1.7.zip",
+    "sha256": "75189fec766fdda29e019a697f2a27505a3d6262d247b5328a3cd5da6fbdd730",
+    "byteLength": 2202743,
     "compatibleBaseVersion": "0.1.0"
   }
 }

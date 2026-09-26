@@ -1,18 +1,18 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "releaseDate": "2026-09-26",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "The scrolling staff no longer repeats the clef and time signature in every bar: the clef and key stay pinned at the left edge. Updates now open the update dialog on startup instead of a brief notification."
+    "Split view now shows the staff under the piano roll. The piano is louder, and a medium key press no longer comes out faint."
   ],
   "downloadUrls": {
     "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.5/Sonoros-0.1.5-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.7/patch-0.1.7.zip",
-    "sha256": "75189fec766fdda29e019a697f2a27505a3d6262d247b5328a3cd5da6fbdd730",
-    "byteLength": 2202743,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.8/patch-0.1.8.zip",
+    "sha256": "7a53083d1765561dbf95facc869e101f9acad067f0b282ad58be68ad273f016d",
+    "byteLength": 2202765,
     "compatibleBaseVersion": "0.1.0"
   }
 }

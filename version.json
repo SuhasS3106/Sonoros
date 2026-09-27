@@ -1,20 +1,18 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "releaseDate": "2026-09-27",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "New Blind practice mode: hide the notes and play from memory at your own tempo, scored on notes, rhythm and pacing",
-    "You can now pause during the 3-2-1 count-in in section practice",
-    "Keys stay highlighted while paused at the start of a section"
+    "Blind mode: stopping partway through a song no longer gives a nonsense result. The score now shows the bar you stopped at, and bars you never reached are no longer listed under Needs work."
   ],
   "downloadUrls": {
     "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.5/Sonoros-0.1.5-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.10/patch-0.1.10.zip",
-    "sha256": "13c2a47d2e18378d0b4b54d8605c31fff89952c67dac9404857e4546d27ff0d6",
-    "byteLength": 2207609,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.11/patch-0.1.11.zip",
+    "sha256": "767674ea7396bebc0251457caec2026b33d2c7b3059fce37fcdc2e729952d675",
+    "byteLength": 2207764,
     "compatibleBaseVersion": "0.1.0"
   }
 }

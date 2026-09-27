@@ -1,18 +1,20 @@
 {
-  "version": "0.1.9",
-  "releaseDate": "2026-09-26",
+  "version": "0.1.10",
+  "releaseDate": "2026-09-27",
   "minRequiredVersion": "0.1.0",
   "notes": [
-    "Sections mode: the countdown now counts down and the notes fall during it, instead of freezing and then jumping in. Update checks now see a new release immediately instead of up to 5 minutes later."
+    "New Blind practice mode: hide the notes and play from memory at your own tempo, scored on notes, rhythm and pacing",
+    "You can now pause during the 3-2-1 count-in in section practice",
+    "Keys stay highlighted while paused at the start of a section"
   ],
   "downloadUrls": {
     "windows": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.5/Sonoros-0.1.5-x64-setup.exe"
   },
   "mandatory": false,
   "patch": {
-    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.9/patch-0.1.9.zip",
-    "sha256": "8a2dac655c2d5e70e5d521eed312e6c125218fdac801ca1d10a30626437c3c12",
-    "byteLength": 2202982,
+    "url": "https://github.com/SuhasS3106/Sonoros/releases/download/v0.1.10/patch-0.1.10.zip",
+    "sha256": "13c2a47d2e18378d0b4b54d8605c31fff89952c67dac9404857e4546d27ff0d6",
+    "byteLength": 2207609,
     "compatibleBaseVersion": "0.1.0"
   }
 }
